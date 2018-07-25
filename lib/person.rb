@@ -2,10 +2,21 @@
 
 class Person 
   
-def $FILENAME
-  
-  
-  
+def name 
+  @name 
+end
+
+def name=
+  @name
+end 
+
+def job
+  @job
+end 
+
+def job= 
+  @job
+end 
   
   
   
